@@ -1,6 +1,6 @@
-## lexs-installer
+## VPS Setup
 
-###Laravel
+### Laravel
 
 ```bash
 bash <(curl -L -Ss https://raw.githubusercontent.com/putheng/vps-setup/master/laravel.sh)
